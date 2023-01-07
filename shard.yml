@@ -1,0 +1,15 @@
+name: web-socket-pinger
+
+version: 1.0.0
+
+crystal: ">= 1.6.0"
+
+description: |
+  Crystal Language has no ping-initiative system for WebSockets built-in. Fixed!
+
+repository: "https://github.com/Xanders/web-socket-pinger"
+
+authors:
+  - Xanders
+
+license: MIT
